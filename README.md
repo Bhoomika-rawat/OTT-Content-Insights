@@ -41,19 +41,6 @@ The dataset used for this project includes data related to content on Netflix, A
 
 ---
 
-## Project Structure
-
-Streaming-Platform-Dashboard/
-│
-├── Dashboard.pbix            # Main Power BI dashboard file (download to view and interact with)
-├── Data/                     # Folder for data files
-│   └── streaming_data.csv     # Raw dataset used for analysis
-├── README.md                 # Documentation of the project
-└── Screenshots/              # (Optional) Folder for images/screenshots of the dashboard
-
-
----
-
 ## How to Use
 
 1. Clone or download this repository  
@@ -68,7 +55,7 @@ Streaming-Platform-Dashboard/
 If you face any issues or have questions:
 
 - Feel free to open an issue in the repository  
-- Connect with me on [LinkedIn](#) or via [Email](#)
+- Connect with me on [[LinkedIn](https://www.linkedin.com/in/bhoomika-rawat/)](#) or via [bhoomikarawat205@gmail.com](#)
 
 ---
 

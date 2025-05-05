@@ -29,14 +29,16 @@ The goal of this project is to visually present and analyze content data from ma
 
 ## 📸 Dashboard Preview
 
-Here’s a preview of the dashboards created in Power BI:
+Below are the dashboards created for each streaming platform using Power BI:
 
-![Dashboard Screenshot 1](Screenshots/dashboard1.png)![1](https://github.com/user-attachments/assets/df81217d-60f6-45a6-8cb9-5dee359d9640)
+### 📺 Netflix Dashboard  
+![Netflix Dashboard](https://github.com/user-attachments/assets/df81217d-60f6-45a6-8cb9-5dee359d9640)
 
-![Dashboard Screenshot 2](Screenshots/dashboard2.png)![2](https://github.com/user-attachments/assets/49d7bbd9-5ad5-4540-b6c2-21f816ee11c6)
+### 🎬 Amazon Prime Video Dashboard  
+![Amazon Prime Dashboard](https://github.com/user-attachments/assets/49d7bbd9-5ad5-4540-b6c2-21f816ee11c6)
 
-![Dashboard Screenshot 3](Screenshots/dashboard3.png)![3](https://github.com/user-attachments/assets/866a3c08-955e-4d82-822b-df9a4f9c4209)
-
+### 🎥 Disney+ Hotstar Dashboard  
+![Disney+ Hotstar Dashboard](https://github.com/user-attachments/assets/866a3c08-955e-4d82-822b-df9a4f9c4209)
 
 ---
 

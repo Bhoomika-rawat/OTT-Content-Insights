@@ -43,6 +43,13 @@ The dataset used for this project includes data related to content on Netflix, A
 
 ## Project Structure
 
+Streaming-Platform-Dashboard/
+│
+├── Dashboard.pbix            # Main Power BI dashboard file
+├── Data/
+│   └── streaming_data.csv     # Raw dataset used for analysis
+├── README.md                 # Project documentation
+└── Screenshots/              # (Optional) Preview images of the dashboard
 
 ---
 

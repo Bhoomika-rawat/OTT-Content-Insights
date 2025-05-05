@@ -55,7 +55,7 @@ The dataset used for this project includes data related to content on Netflix, A
 If you face any issues or have questions:
 
 - Feel free to open an issue in the repository  
-- Connect with me on [[LinkedIn](https://www.linkedin.com/in/bhoomika-rawat/)](#) or via [bhoomikarawat205@gmail.com](#)
+- Connect with me on [[LinkedIn](https://www.linkedin.com/in/bhoomika-rawat/)] or via [[Gmail](bhoomikarawat205@gmail.com])]
 
 ---
 
